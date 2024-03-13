@@ -46,7 +46,7 @@ the pane. You can also click the `sources` tab and select `css/cleanup.css` in
 the dev tools pane. This allows you to edit the CSS file directly. It _won't_
 save your edits, but it will give a live update of changes so that it's easier
 to manipulate the DOM without refreshing the page. From there, you can copy and
-paste your working changes into the file.
+paste y++our working changes into the file.
 
 To remove the tags, use the CSS declaration `display:none;`. It will change the
 elements' previous display property value from `display: block` to
